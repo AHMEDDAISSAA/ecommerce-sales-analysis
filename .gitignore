@@ -1,0 +1,4 @@
+data/
+.ipynb_checkpoints/
+.jupyter-agent-bridge/
+__pycache__/
